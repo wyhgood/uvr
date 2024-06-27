@@ -5,6 +5,8 @@
 ⚠️ Before running this project, make sure you have installed `torch`, `torchaudio`. Please check out the PyTorch documentation.
 
 ⚠️ Also make sure you have `libsndfile` and `ffmpeg` installed.
+use apt-get install libsndfile-dev
+ install libsndfile
 
 ⚠️ This project currently works on CUDA.
 
